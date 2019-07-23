@@ -1,2 +1,2 @@
 # adventures_california
-project
+adding the images
